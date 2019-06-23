@@ -1,2 +1,2 @@
 # Data-Science
-Regression and some other techniques
+Data visualization, some machine learning techniques
